@@ -4,7 +4,7 @@
 
 <br />
 
-# 😎 I'M THANUJ KUMAR MALIGI!
+# THANUJ KUMAR MALIGI
 
 *Aspiring Data Engineer | B.Tech in AI & Data Science @ Amrita Vishwa Vidyapeetham*
 
@@ -12,17 +12,30 @@ I am an aspiring Data Engineer with hands-on experience designing ETL/ELT pipeli
 
 ---
 
-### ✨ Highlights & Activities
+### Technical Projects & Metrics
 
-- 🌱 **Continuous Learning:** I am currently exploring advanced data warehousing schemas, query optimization, and distributed systems.
-- 🏁 **Hackathons:** National Finalist at **Code4Change Hackathon 2025–26** (ISDM Goa), developing court scheduling algorithms.
-- 🤖 **Innovation:** Winner of the **AI Agent Hackathon** (Productspace 2025), building collaborative multi-agent workflows.
-- 💼 **Professional Prep:** Completed the **Deloitte Data Analytics Simulation** involving data cleaning and dashboard modeling.
-- ✉️ **Let's Connect:** I am open to collaborating on data pipelines, open-source data engineering projects, and research opportunities.
+* **Spatio-Temporal Marketplace Surge Pricing Engine:**
+  * Reconstructed a 257-commit Git history simulating an active development lifecycle.
+  * Core optimization solver achieves **+14.5% GMV uplift** and keeps query latency **under 10ms** (cached) / **100ms** (database fallback) using SciPy SLSQP optimization and Redis caching.
+  * Implemented PySpark Structured Streaming for real-time 5-minute aggregation windows into TimescaleDB.
+
+* **Smart Traffic Operating System:**
+  * Fine-tuned a domain-specific **YOLOv11-S** model on the IISc UVH-26 Indian traffic dataset, achieving vehicle classification at **28 FPS**.
+  * Built a multithreaded simulation engine managing four concurrent traffic streams with adaptive occupancy-aware MLFQ signal scheduling, reducing average wait times by **35%**.
+  * Implemented emergency vehicle prioritization via interrupt preemption (IRQ) and Priority Inheritance.
+
+* **Medallion Data Lakehouse (E2E Clickstream Ingestion):**
+  * Built a real-time clickstream ingestion pipeline consuming high-throughput JSON event logs via **Apache Kafka**.
+  * Developed PySpark Structured Streaming scripts to filter malformed data into a **Dead-Letter Queue (DLQ)** on MinIO (simulated S3).
+  * Enforced event-time watermarking (10-minute threshold) to handle late-arriving records and prevent double-counting event metrics.
+
+* **Nexus: Network Resilience & Routing Simulator:**
+  * Engineered a Next.js/TypeScript graph simulator implementing **Tarjan's Low-Link Algorithm** to identify Articulation Points and Bridges in a single DFS pass ($O(V+E)$ time).
+  * Optimized pathfinding with **A* Search** using Euclidean heuristics, reducing simulated rerouting time by **40%** compared to baseline BFS.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Technical Skills
 
 <table>
   <tr>
@@ -68,7 +81,16 @@ I am an aspiring Data Engineer with hands-on experience designing ETL/ELT pipeli
 
 ---
 
-### 📊 GitHub Insights
+### Highlights & Activities
+
+* **Continuous Learning:** Exploring advanced data warehousing schemas, query optimization patterns, and distributed systems.
+* **Hackathons:** National Finalist at **Code4Change Hackathon 2025–26** (ISDM Goa), developing judicial case scheduling algorithms.
+* **Innovation:** Winner of the **AI Agent Hackathon** (Productspace 2025), building collaborative multi-agent workflow systems.
+* **Professional Prep:** Completed the **Deloitte Data Analytics Simulation** involving data cleaning and dashboard modeling.
+
+---
+
+### GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThanujMaligi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Thanuj's GitHub Stats" height="170px" />
@@ -81,10 +103,10 @@ I am an aspiring Data Engineer with hands-on experience designing ETL/ELT pipeli
 
 ---
 
-### 📫 Connect with Me
-- 💼 **LinkedIn:** [linkedin.com/in/thanuj-kumar-maligi](https://www.linkedin.com/in/thanuj-kumar-maligi-8882b2288)
-- 📧 **Email:** [maligithanuj@gmail.com](mailto:maligithanuj@gmail.com)
-- 🔗 **Portfolio:** [thanujmaligi.github.io](https://github.com/ThanujMaligi/bison-portfolio-next)
+### Contact & Links
+* **LinkedIn:** [linkedin.com/in/thanuj-kumar-maligi](https://www.linkedin.com/in/thanuj-kumar-maligi-8882b2288)
+* **Email:** [maligithanuj@gmail.com](mailto:maligithanuj@gmail.com)
+* **Portfolio:** [thanujmaligi.github.io](https://github.com/ThanujMaligi/bison-portfolio-next)
 
 <br />
 
