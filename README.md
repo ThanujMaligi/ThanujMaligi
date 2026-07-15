@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="mascot.gif" width="350" alt="Thanuj Kumar Maligi" />
+  <img src="mascot.gif" width="100%" alt="Thanuj Kumar Maligi" />
 </div>
 
 <br />
