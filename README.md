@@ -1,12 +1,10 @@
 <div align="center">
-  <img src="github_profile_banner.jpg" width="100%" alt="Thanuj Kumar Maligi Header Banner" />
+  <img src="mascot.gif" width="350" alt="Thanuj Kumar Maligi" />
 </div>
 
 <br />
 
 # 😎 I'M THANUJ KUMAR MALIGI!
-
-<img src="mascot.gif" align="right" width="220" />
 
 *Aspiring Data Engineer | B.Tech in AI & Data Science @ Amrita Vishwa Vidyapeetham*
 
