@@ -6,6 +6,8 @@
 
 # 😎 I'M THANUJ KUMAR MALIGI!
 
+<img src="mascot.gif" align="right" width="220" />
+
 *Aspiring Data Engineer | B.Tech in AI & Data Science @ Amrita Vishwa Vidyapeetham*
 
 I am an aspiring Data Engineer with hands-on experience designing ETL/ELT pipelines, real-time data streaming, and cloud data platforms using Apache Spark, Kafka, Airflow, Delta Lake, Python, SQL, Docker, and AWS. I have a strong foundation in distributed systems, data warehousing, dimensional modeling, and scalable database solutions.
